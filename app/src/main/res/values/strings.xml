@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_text">Enter text</string>
+    <string name="count">Count</string>
+    <string name="result">Result: </string>
+    <string name="select_count_type">Select Count Type</string>
+    <string name="words">Words</string>
+    <string name="characters">Characters</string>
+    <string name="empty_text_warning">Please enter some text</string>
+
+
+
+</resources>
